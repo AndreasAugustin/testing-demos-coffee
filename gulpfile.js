@@ -11,10 +11,10 @@
 (function() {
     "use strict";
     var gulp = require('gulp');
-    var jasmine = require('jasmine');
+    var jasmine = require('gulp-jasmine');
 
     gulp.task('default', function() {
-        
+
     });
 
 

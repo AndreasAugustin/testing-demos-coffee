@@ -1,0 +1,24 @@
+{
+  "name": "testing-demos-coffee",
+  "version": "1.0.0",
+  "description": "unit testing demos for CoffeeScript (and JavaScript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreasAugustin/testing-demos-coffee.git"
+  },
+  "author": "andy.augustin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreasAugustin/testing-demos-coffee/issues"
+  },
+  "homepage": "https://github.com/AndreasAugustin/testing-demos-coffee#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.3.0"
+  }
+}
